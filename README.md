@@ -45,13 +45,10 @@ Feel free to explore the website and see the different sections that showcase my
 
 I welcome contributions to improve the project. If you have any suggestions or find any issues, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
-If you have any questions or want to connect, you can reach me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or want to connect, you can reach me at [your-email@example.com](rajshash2005@gmail.com).
 
 ---
 
