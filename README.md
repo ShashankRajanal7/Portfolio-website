@@ -1,7 +1,3 @@
-Here's a sample README file for your GitHub repository:
-
----
-
 # Personal Portfolio Website
 
 Welcome to my personal portfolio website repository! This project showcases my skills and experience as a dynamic creative designer, photographer, and developer. It is built using HTML, CSS, and JavaScript.
