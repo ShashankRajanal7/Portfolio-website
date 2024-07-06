@@ -48,7 +48,7 @@ I welcome contributions to improve the project. If you have any suggestions or f
 
 ## Contact
 
-If you have any questions or want to connect, you can reach me at [your-email@example.com](rajshash2005@gmail.com).
+If you have any questions or want to connect, you can reach me at rajshash2005@gmail.com
 
 ---
 
