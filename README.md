@@ -11,7 +11,7 @@ Welcome to my personal portfolio website repository! This project showcases my s
 - **Responsive Design**: Ensures the website looks great on all devices.
 - **Interactive Elements**: Uses JavaScript to add interactivity and enhance user experience.
 - **Modern Styling**: Utilizes CSS for a clean, modern look.
-- **Portfolio Showcase**: Displays my projects, photography, and designs.
+- **Portfolio Showcase**: Displays my projects and designs.
 
 ## Project Structure
 
